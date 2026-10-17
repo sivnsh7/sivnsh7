@@ -1,440 +1,322 @@
-
-<!--<!--
-GitHub Profile README — Shivansh (@sivnsh7)
-
-Install:
-1. Create a PUBLIC repository named exactly: sivnsh7
-2. Save this file as README.md in the repository root.
-3. Enable GitHub Actions and configure .github/workflows/snake.yml
-   using Platane/snk@v3 to generate the contribution animation.
-4. Replace the TikTok and YouTube placeholder links before publishing.
-
-Palette:
-Pink        #EF93C4
-Soft Pink   #F8BBD0
-Hot Pink    #FF69B4
-Dark        #0D1117
--->
-
-<!-- ======================== HEADER ======================== -->
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:17111F,50:63365C,100:EF93C4&amp;height=230&amp;section=header&amp;text=SHIVANSH&amp;fontSize=60&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=LINUX%20%7C%20SECURITY%20TOOLING%20%7C%20AI%20EXPERIMENTS&amp;descAlignY=60&amp;descSize=15"
-    />
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F8BBD0,50:EF93C4,100:FF69B4&amp;height=230&amp;section=header&amp;text=SHIVANSH&amp;fontSize=60&amp;fontColor=251323&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=LINUX%20%7C%20SECURITY%20TOOLING%20%7C%20AI%20EXPERIMENTS&amp;descAlignY=60&amp;descSize=15"
-      width="100%"
-      alt="Shivansh — Linux, security tooling and AI experiments"
-    />
-  </picture>
-</p>
-
-<h1 align="center">Hey there, I'm Shivansh 👋</h1>
-
-<p align="center">
-  <a href="https://github.com/sivnsh7">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;pause=1000&amp;color=EF93C4&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Linux+%26+Security+Tooling;Reconnaissance+Automation;Networking+%26+Systems+Experiments;AI-Assisted+Development;Learning+by+Building+and+Verifying"
-      alt="Animated introduction"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sivnsh7?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/sivnsh7?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Followers&amp;color=EF93C4"
-      alt="GitHub followers"
-    />
-  </a>
-  <a href="https://github.com/sivnsh7/SubHunter/stargazers">
-    <img
-      src="https://img.shields.io/github/stars/sivnsh7/SubHunter?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=SubHunter%20Stars&amp;color=FF69B4"
-      alt="SubHunter stars"
-    />
-  </a>
-  <img
-    src="https://komarev.com/ghpvc/?username=sivnsh7&amp;style=for-the-badge&amp;color=EF93C4&amp;label=PROFILE+VIEWS"
-    alt="Profile views"
-  />
-</p>
-
-<p align="center">
-  <a href="https://sivnsh7.in">
-    <img src="https://img.shields.io/badge/Portfolio-sivnsh7.in-251323?style=flat-square&amp;labelColor=EF93C4&amp;color=251323" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/sivnsh7">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-251323?style=flat-square&amp;logo=github&amp;logoColor=EF93C4" alt="GitHub profile" />
-  </a>
-</p>
-
-<br />
-
-<!-- ======================== ABOUT ME ======================== -->
-
-<h2 align="center">✦ About Me ✦</h2>
-
-<table width="100%">
-  <tr>
-    <td width="65%" valign="middle">
-      <p>
-        I'm a self-directed developer exploring the intersection of
-        <strong>Linux, cybersecurity tooling, networking and AI integration.</strong>
-      </p>
-      <p>
-        I enjoy building small utilities that make technical workflows easier
-        to run, inspect and understand. My projects include a Bash-based
-        reconnaissance helper, Python applications and experiments involving
-        remote model serving and API streaming.
-      </p>
-      <p>
-        I use AI-assisted development extensively for implementation and
-        debugging. My role has focused on requirements, UI direction, setup,
-        integration, reviewing changes and testing workflows.
-      </p>
-      <p>
-        I'm working toward understanding my code more deeply, testing it
-        independently and documenting its limitations honestly.
-      </p>
-      <p>
-        <strong>My philosophy:</strong> Understand the output. Verify the behavior.
-      </p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img
-        src="https://github.com/sivnsh7.png"
-        width="210"
-        alt="Shivansh's GitHub avatar"
-      />
-      <br />
-      <br />
-      <a href="https://sivnsh7.in">
-        <img src="https://img.shields.io/badge/Explore-My%20Portfolio-EF93C4?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=251323" alt="Explore my portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- ======================== AREAS OF INTEREST ======================== -->
-
-<h2 align="center">⌘ What I'm Exploring</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux%20%26%20Systems-EF93C4?style=flat-square&amp;labelColor=251323" alt="Linux and systems" />
-  <img src="https://img.shields.io/badge/Recon%20Automation-F8BBD0?style=flat-square&amp;labelColor=251323" alt="Recon automation" />
-  <img src="https://img.shields.io/badge/Networking-FF69B4?style=flat-square&amp;labelColor=251323" alt="Networking" />
-  <img src="https://img.shields.io/badge/Python%20%26%20Bash-EF93C4?style=flat-square&amp;labelColor=251323" alt="Python and Bash" />
-  <img src="https://img.shields.io/badge/AI%20Integration-F8BBD0?style=flat-square&amp;labelColor=251323" alt="AI integration" />
-  <img src="https://img.shields.io/badge/Developer%20Tooling-FF69B4?style=flat-square&amp;labelColor=251323" alt="Developer tooling" />
-</p>
-
-<p align="center">
-  Building practical tools · Troubleshooting Linux · Exploring APIs · Learning through experiments
-</p>
-
-<!-- ======================== TECH STACK ======================== -->
-
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=py,bash,linux,kali,git,github,html,css,js,nodejs,cloudflare,nginx,neovim&amp;perline=7&amp;theme=dark"
-    />
-    <img
-      src="https://skillicons.dev/icons?i=py,bash,linux,kali,git,github,html,css,js,nodejs,cloudflare,nginx,neovim&amp;perline=7&amp;theme=light"
-      alt="Python, Bash, Linux, Kali Linux, Git, GitHub, HTML, CSS, JavaScript, Node.js, Cloudflare, Nginx and Neovim"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <strong>Programming &amp; Scripting</strong>
-  <br />
-  Python · Bash · JavaScript · HTML · CSS
-</p>
-
-<p align="center">
-  <strong>Systems &amp; Networking</strong>
-  <br />
-  Arch Linux · Kali Linux · Termux · DNS · IPv4/CIDR · HTTP(S) · Tailscale · Cloudflare Tunnel
-</p>
-
-<p align="center">
-  <strong>Frameworks &amp; Libraries</strong>
-  <br />
-  Textual · Kivy · psutil · Scapy · Node.js
-</p>
-
-<p align="center">
-  <strong>Workflow</strong>
-  <br />
-  Git · GitHub · Neovim · Linux CLI · AI-assisted development
-</p>
-
-<!-- ======================== PROJECTS ======================== -->
-
-<h2 align="center">🚀 Selected Projects</h2>
-
-<p align="center">
-  A few public projects I'm building, adapting and learning from.
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <h3>
-        <a href="https://github.com/sivnsh7/SubHunter">01 · SubHunter</a>
-      </h3>
-      <p>
-        <strong>Bash · Termux · Reconnaissance</strong>
-      </p>
-      <p>
-        An interactive subdomain reconnaissance helper that combines optional
-        discovery sources, merges candidate names, performs DNS checks and
-        saves results for review.
-      </p>
-      <p>
-        <sub>Public source available · Fresh execution and targeted correctness tests pending</sub>
-      </p>
-      <p>
-        <a href="https://github.com/sivnsh7/SubHunter">
-          <img src="https://img.shields.io/badge/View-Repository-EF93C4?style=for-the-badge&amp;logo=github&amp;logoColor=251323" alt="View SubHunter repository" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>
-        <a href="https://github.com/sivnsh7/cf_scanner">02 · CF Scanner</a>
-      </h3>
-      <p>
-        <strong>Python · Kivy · IPv4 · HTTP(S)</strong>
-      </p>
-      <p>
-        A graphical hostname-checking utility that compares resolved IPv4
-        addresses against an embedded Cloudflare range list and records
-        HTTP(S) reachability results.
-      </p>
-      <p>
-        <sub>Public source available · Fresh end-to-end testing and Android packaging validation pending</sub>
-      </p>
-      <p>
-        <a href="https://github.com/sivnsh7/cf_scanner">
-          <img src="https://img.shields.io/badge/View-Repository-F8BBD0?style=for-the-badge&amp;logo=github&amp;logoColor=251323" alt="View CF Scanner repository" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>
-        <a href="https://github.com/sivnsh7/sivnsh7-monitor">03 · sivnsh7-monitor</a>
-      </h3>
-      <p>
-        <strong>Python · Textual · Linux</strong>
-      </p>
-      <p>
-        A terminal-based monitoring dashboard bringing system resources,
-        network information, Wi-Fi, Bluetooth and service details into one
-        interface. Some views depend on permissions, installed utilities
-        and supported hardware.
-      </p>
-      <p>
-        <sub>Public source available · Fresh feature-by-feature testing pending</sub>
-      </p>
-      <p>
-        <a href="https://github.com/sivnsh7/sivnsh7-monitor">
-          <img src="https://img.shields.io/badge/View-Repository-FF69B4?style=for-the-badge&amp;logo=github&amp;logoColor=251323" alt="View monitoring dashboard repository" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <em>
-    I use AI-assisted development, and I distinguish source-code availability
-    from verified runtime behavior. Each project's current testing status
-    matters more than a polished claim.
-  </em>
-</p>
-
-<!-- ======================== LAB NOTES ======================== -->
-
-<h2 align="center">🧪 Current Learning Lab</h2>
-
-<p align="center">
-  <strong>Linux &amp; Networking</strong>
-  <br />
-  System configuration, DNS resolution, HTTP behavior, remote access and
-  troubleshooting reachability constraints.
-</p>
-
-<p align="center">
-  <strong>AI Integration</strong>
-  <br />
-  Model-routing concepts, API compatibility, streaming responses and
-  provider-configuration debugging.
-</p>
-
-<p align="center">
-  <strong>Security Tooling</strong>
-  <br />
-  Authorized reconnaissance, careful result validation and understanding
-  why a tool's output is not automatically a confirmed finding.
-</p>
-
-<p align="center">
-  <strong>Next milestones</strong>
-  <br />
-  Retest public projects · Review generated code · Improve reproducibility ·
-  Document edge cases
-</p>
-
-<!-- ======================== GITHUB ANALYTICS ======================== -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <em>Live statistics from GitHub profile widgets. Numbers update as the services refresh.</em>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=sivnsh7&amp;hide_border=true&amp;background=0D1117&amp;stroke=F8BBD0&amp;ring=EF93C4&amp;fire=FF69B4&amp;currStreakNum=F8BBD0&amp;sideNums=F8BBD0&amp;currStreakLabel=FF69B4&amp;sideLabels=EF93C4&amp;dates=F8BBD0"
-    />
-    <img
-      src="https://streak-stats.demolab.com?user=sivnsh7&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=EF93C4&amp;ring=FF69B4&amp;fire=E754A4&amp;currStreakNum=512D45&amp;sideNums=512D45&amp;currStreakLabel=E754A4&amp;sideLabels=9C4A78&amp;dates=76566A"
-      alt="GitHub contribution streak statistics"
-      height="180"
-    />
-  </picture>
-</p>
-
-<h3 align="center">Contribution Activity</h3>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sivnsh7&amp;bg_color=0D1117&amp;color=F8BBD0&amp;line=FF69B4&amp;point=EF93C4&amp;area=true&amp;hide_border=true&amp;custom_title=GitHub%20Activity"
-    />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=sivnsh7&amp;bg_color=FFFFFF&amp;color=76566A&amp;line=E754A4&amp;point=FF69B4&amp;area=true&amp;hide_border=true&amp;custom_title=GitHub%20Activity"
-      alt="GitHub contribution activity graph"
-      width="100%"
-    />
-  </picture>
-</p>
-
-<!-- ======================== CONTRIBUTION SNAKE ======================== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <em>A small animation generated from the GitHub contribution graph.</em>
-</p>
-
 <!--
-GitHub Action setup:
-Create .github/workflows/snake.yml and run Platane/snk@v3.
-Publish the light and dark SVG outputs to the output branch.
-The image URLs below work after the first successful workflow run.
+  Profile README — Shivansh (@sivnsh7)
+  Built from a crawl of sivnsh7.in and github.com/sivnsh7 on 2026-10-17.
+
+  Maintaining it
+  - Status chips and work-queue checkboxes mean "evidence exists", not "code exists".
+    Tick a box or change a chip only after a fresh, recorded test.
+  - Palette: #D6458F  #EF93C4  #F8BBD0  on plum #251323
+  - The snake needs .github/workflows/snake.yml (delivered next to this file).
+  - Add TikTok / YouTube buttons only once the real profile URLs exist.
 -->
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sivnsh7/sivnsh7/output/github-contribution-grid-snake-dark.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/sivnsh7/sivnsh7/output/github-contribution-grid-snake.svg"
-      alt="Animated GitHub contribution snake"
-      width="100%"
-    />
-  </picture>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:17111F,50:63365C,100:EF93C4&amp;height=230&amp;section=header&amp;text=SHIVANSH&amp;fontSize=60&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=SECURITY%20TOOLING%20%26%20SYSTEMS%20EXPERIMENTS&amp;descAlignY=60&amp;descSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F8BBD0,50:EF93C4,100:D6458F&amp;height=230&amp;section=header&amp;text=SHIVANSH&amp;fontSize=60&amp;fontColor=251323&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=SECURITY%20TOOLING%20%26%20SYSTEMS%20EXPERIMENTS&amp;descAlignY=60&amp;descSize=15" width="100%" alt="SHIVANSH — security tooling and systems experiments" />
+</picture>
+
+<a href="https://sivnsh7.in">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=EF93C4&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=44&amp;lines=Security+tooling+%26+systems+experiments;From+Termux+on+Android+to+Arch+Linux;Source+code+is+not+verified+behaviour;Tools+generate+leads.+Evidence+supports+conclusions.;Tools+change.+Method+doesn%27t." alt="Security tooling and systems experiments. Tools generate leads; evidence supports conclusions." />
+</a>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-sivnsh7.in-251323?style=for-the-badge&labelColor=EF93C4)](https://sivnsh7.in)
+[![GitHub](https://img.shields.io/badge/GITHUB-%40sivnsh7-251323?style=for-the-badge&logo=github&logoColor=251323&labelColor=EF93C4)](https://github.com/sivnsh7)
+[![X](https://img.shields.io/badge/X-%40sivnsh7-251323?style=for-the-badge&logo=x&logoColor=251323&labelColor=EF93C4)](https://x.com/sivnsh7)
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%40sivnsh7.in-251323?style=for-the-badge&logo=instagram&logoColor=251323&labelColor=EF93C4)](https://instagram.com/sivnsh7.in)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-251323?style=for-the-badge&logo=linkedin&logoColor=251323&labelColor=EF93C4)](https://www.linkedin.com/in/shivansh-sharma-aba285392/)
+[![Email](https://img.shields.io/badge/EMAIL-sivnsh7%40gmail.com-251323?style=for-the-badge&logo=gmail&logoColor=251323&labelColor=EF93C4)](mailto:sivnsh7@gmail.com)
+
+<p>
+  <a href="#method">Method</a> &nbsp;·&nbsp;
+  <a href="#case-files">Case files</a> &nbsp;·&nbsp;
+  <a href="#stack">Stack</a> &nbsp;·&nbsp;
+  <a href="#work-queue">Work queue</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Platane/snk">
-    <img src="https://img.shields.io/badge/Powered%20by-Platane%2Fsnk-EF93C4?style=flat-square&amp;logo=github&amp;logoColor=251323" alt="Contribution snake powered by Platane snk" />
-  </a>
-</p>
+</div>
 
-<!-- ======================== CONNECT ======================== -->
+```text
+shivansh@arch:~$ whoami
+Shivansh · security tooling & systems experiments · India
 
-<h2 align="center">🌐 Let's Connect</h2>
+shivansh@arch:~$ cat origin.txt
+Termux on Android  ──►  Arch Linux laptop (Hyprland)
 
-<p align="center">
-  I'm interested in connecting with people who enjoy building, exploring
-  systems, learning security fundamentals and sharing technical ideas.
-</p>
+shivansh@arch:~$ cat about.txt
+I build and adapt small tools for reconnaissance, Linux monitoring,
+host checks and AI model-serving experiments. Most implementations
+are AI-assisted; my part is requirements, UI direction, setup,
+review and workflow testing.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivansh-sharma-aba285392/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&amp;logo=linkedin&amp;logoColor=251323" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/sivnsh7">
-    <img src="https://img.shields.io/badge/X-Follow-F8BBD0?style=for-the-badge&amp;logo=x&amp;logoColor=251323" alt="X" />
-  </a>
-  <a href="https://instagram.com/sivnsh7.in">
-    <img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&amp;logo=instagram&amp;logoColor=FFFFFF" alt="Instagram" />
-  </a>
-  <a href="mailto:sivnsh7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EF93C4?style=for-the-badge&amp;logo=gmail&amp;logoColor=251323" alt="Email" />
-  </a>
-  <!-- Replace the TikTok placeholder with your real public profile URL. -->
-  <a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME">
-    <img src="https://img.shields.io/badge/TikTok-Connect-F8BBD0?style=for-the-badge&amp;logo=tiktok&amp;logoColor=251323" alt="TikTok — replace placeholder URL" />
-  </a>
-  <!-- Replace the YouTube placeholder with your real public channel URL. -->
-  <a href="https://www.youtube.com/@YOUR_YOUTUBE_HANDLE">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF69B4?style=for-the-badge&amp;logo=youtube&amp;logoColor=FFFFFF" alt="YouTube — replace placeholder URL" />
-  </a>
-</p>
+shivansh@arch:~$ cat principle.txt
+Source code is not the same as verified behaviour.
 
-<p align="center">
-  <a href="https://sivnsh7.in">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-251323?style=flat-square&amp;logo=firefoxbrowser&amp;logoColor=EF93C4" alt="Portfolio website" />
-  </a>
-  <a href="https://github.com/sivnsh7">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-251323?style=flat-square&amp;logo=github&amp;logoColor=EF93C4" alt="GitHub repositories" />
-  </a>
-</p>
+shivansh@arch:~$ ls ~/public
+SubHunter/   cf_scanner/   sivnsh7-monitor/
+```
 
-<!-- ======================== FOOTER ======================== -->
+## Method
 
-<br />
+> **Tools generate leads; evidence supports conclusions.**
+> A DNS answer, an HTTP status or a scanner alert does not, by itself, prove a vulnerability — or prove that a service is secure.
 
-<p align="center">
-  <strong>Build with curiosity. Document with honesty. Verify what matters.</strong>
-  <br />
-  <sub>See you in the next commit 🌸</sub>
-</p>
+Every case file below says where its evidence stands. This is the ladder I measure against, and where the three public tools sit today:
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EF93C4,50:F8BBD0,100:FF69B4&amp;height=120&amp;section=footer"
-    width="100%"
-    alt="Pink waving footer"
-  />
-</p>
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#F8BBD0","primaryTextColor":"#251323","primaryBorderColor":"#D6458F","lineColor":"#D6458F","textColor":"#D6458F","edgeLabelBackground":"#FFF0F7"}}}%%
+flowchart LR
+    A["Source is public<br/>C-01 · C-02 · C-03"]:::done --> B["Fresh run on<br/>a clean setup"]:::todo --> C["Known-result test<br/>input + expected output"]:::todo --> D["Reproduced<br/>evidence recorded"]:::todo
+    classDef done fill:#D6458F,stroke:#251323,color:#FFFFFF,stroke-width:2px;
+    classDef todo fill:#F8BBD0,stroke:#D6458F,color:#251323,stroke-dasharray:5 4;
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborat on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ✅ Reproduced | 🟡 Unverified | ⛔ Out of scope |
+|:--|:--|:--|
+| Observed under a defined, authorised test — input and expected result recorded. | Source, or an earlier observation, exists — but today's result isn't confirmed. | No testing or publishing without permission. No sensitive topology or credentials on a public page. |
+
+> [!NOTE]
+> **AI-assisted, human-reviewed.** Most implementations here were generated with AI and revised against my requirements — I don't present them as written from scratch. Generated code still needs verification, and I say so when it hasn't had it.
+
+> [!IMPORTANT]
+> **Authorised scope only.** I aim to test only domains and devices I own or am explicitly authorised to assess, and to keep target identifiers and private network details off public pages.
+
+## Case files
+
+Six files: three public repositories, three private or personal — labelled as such. The portfolio has the long versions at **[sivnsh7.in](https://sivnsh7.in/#projects)**.
+
+| File | Project | Built with | Status | Pulse |
+|:--|:--|:--|:--|:--|
+| **C-01** | [**SubHunter**](https://github.com/sivnsh7/SubHunter) — subdomain recon helper | Bash · Termux | ![Retest pending](https://img.shields.io/badge/status-Retest%20pending-F8BBD0?style=flat-square&labelColor=251323) | ![SubHunter last commit](https://img.shields.io/github/last-commit/sivnsh7/SubHunter?style=flat-square&label=last%20commit&labelColor=251323&color=EF93C4) |
+| **C-02** | [**CF Scanner**](https://github.com/sivnsh7/cf_scanner) — hostnames vs Cloudflare ranges | Python · Kivy | ![Retest pending](https://img.shields.io/badge/status-Retest%20pending-F8BBD0?style=flat-square&labelColor=251323) | ![CF Scanner last commit](https://img.shields.io/github/last-commit/sivnsh7/cf_scanner?style=flat-square&label=last%20commit&labelColor=251323&color=EF93C4) |
+| **C-03** | [**sivnsh7-monitor**](https://github.com/sivnsh7/sivnsh7-monitor) — terminal system dashboard | Python · Textual | ![Retest pending](https://img.shields.io/badge/status-Retest%20pending-F8BBD0?style=flat-square&labelColor=251323) | ![sivnsh7-monitor last commit](https://img.shields.io/github/last-commit/sivnsh7/sivnsh7-monitor?style=flat-square&label=last%20commit&labelColor=251323&color=EF93C4) |
+| **C-04** | Arch Linux & private-networking lab | Arch · Hyprland · Tailscale | ![Personal lab](https://img.shields.io/badge/status-Personal%20lab-EF93C4?style=flat-square&labelColor=251323) | — |
+| **C-05** | Qwen remote streaming experiment | Notebook · HTTP API · tunnel | ![Private experiment](https://img.shields.io/badge/status-Private%20experiment-EF93C4?style=flat-square&labelColor=251323) | — |
+| **C-06** | OmniRoute provider-alias debugging | Provider config · AI-assisted patch | ![Patch unverified](https://img.shields.io/badge/status-Patch%20unverified-F8BBD0?style=flat-square&labelColor=251323) | — |
+
+<details open>
+<summary><b>C-01 · SubHunter</b> &nbsp;—&nbsp; interactive subdomain-recon helper for Termux</summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **Problem** | Subdomain discovery means collecting results from several sources, then cleaning and checking them separately. |
+| **Method** | Optional engines — Findomain, Subfinder, Assetfinder, crt.sh — are merged and de-duplicated, checked with `dig`, and tagged with heuristic CDN hints. Engines that aren't installed are skipped. Single domain or a `.txt` list; results land in `~/SubHunter_Results/`. |
+| **Evidence** | Public source. Fresh run pending, and a regex in the merge step still needs a targeted correctness test. |
+| **Limits** | DNS resolving ≠ a healthy web service · CDN labels are heuristics · coverage depends on upstream sources · no licence file yet. |
+| **My role** | Requirements, setup & AI-assisted adaptation. |
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#F8BBD0","primaryTextColor":"#251323","primaryBorderColor":"#D6458F","lineColor":"#D6458F","textColor":"#D6458F","clusterBkg":"#FFF0F7","clusterBorder":"#D6458F","edgeLabelBackground":"#FFF0F7"}}}%%
+flowchart LR
+    T(["Target<br/>one domain or a .txt list"]) --> E
+    subgraph E["Discovery engines — each optional"]
+        F["Findomain"]
+        S["Subfinder"]
+        A["Assetfinder"]
+        C["crt.sh"]
+    end
+    E --> M["Merge +<br/>de-duplicate"]
+    M --> D["dig A-record check<br/>the 'Ghost Killer' step"]
+    D --> H["Heuristic CNAME<br/>and CDN hints"]
+    H --> R[("~/SubHunter_Results/")]
+```
+
+```bash
+./subhunter_sivnsh7.sh        # menu: Set Target → Start Scan
+```
+
+</details>
+
+<details>
+<summary><b>C-02 · CF Scanner</b> &nbsp;—&nbsp; Kivy GUI that sorts hostnames by Cloudflare range and reachability</summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **Problem** | Checking a batch of hostnames against a known IPv4 range list — and collecting their web-request outcomes — is tedious one host at a time. |
+| **Method** | Reads hostnames from a text file, resolves IPv4, compares against Cloudflare CIDR ranges embedded in `main.py`, then tries HTTPS and falls back to HTTP with 20–200 concurrent workers. Writes separate result lists. |
+| **Evidence** | Public source. Fresh end-to-end run pending. An Android packaging config (`buildozer.spec`) is present, but no APK build has been validated and no prebuilt APK exists. |
+| **Limits** | IPv4 only · the range list is static and can go stale · results depend on network, DNS and filtering · “live” means reachable at that moment, not a security verdict · not an origin-IP finder. The HTTPS→HTTP fallback path needs a targeted test. |
+| **My role** | Requirements, UI direction & AI-assisted adaptation. |
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#F8BBD0","primaryTextColor":"#251323","primaryBorderColor":"#D6458F","lineColor":"#D6458F","textColor":"#D6458F","edgeLabelBackground":"#FFF0F7"}}}%%
+flowchart LR
+    H(["hostnames .txt<br/>one per line"]) --> R["Resolve IPv4<br/>gethostbyname"]
+    R --> Q{"Inside the embedded<br/>Cloudflare CIDR list?"}
+    Q -- no --> X["No HTTP check"]
+    Q -- yes --> W["HTTPS first,<br/>HTTP as fallback"]
+    W -- reachable --> L[("cf_live.txt")]
+    W -- "error / no reply" --> N[("second list<br/>cf_ prefix")]
+```
+
+```bash
+python main.py                # needs Python 3 + Kivy
+```
+
+</details>
+
+<details>
+<summary><b>C-03 · sivnsh7-monitor</b> &nbsp;—&nbsp; five-view terminal dashboard for Linux</summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **Problem** | System snapshots, network activity, adapter discovery and service/port details normally take separate commands. |
+| **Method** | A Textual TUI with five views — overview & system, network traffic, Wi-Fi, Bluetooth, services & ports. Targets Kali Linux or a compatible Debian-based system; needs root for packet capture and wireless/Bluetooth discovery. Python deps: textual, rich, psutil, scapy. |
+| **Evidence** | Public source. Prior use is self-reported; no fresh feature-by-feature test yet. The Wi-Fi, Bluetooth, packet-capture and privileged-launch paths need the closest look. |
+| **Limits** | Hardware-dependent views are designed to report “no adapter” when nothing is found · results depend on permissions, kernel, adapters and installed tools. Root is powerful — read the source before running it. |
+| **Origin** | Born as *KaliWatch* — first commit, July 2026. |
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#F8BBD0","primaryTextColor":"#251323","primaryBorderColor":"#D6458F","lineColor":"#D6458F","textColor":"#D6458F","edgeLabelBackground":"#FFF0F7"}}}%%
+flowchart LR
+    R["sudo python sivnsh7-monitor.py<br/>root check first"] --> A["Textual app<br/>app.py"]
+    A --> V1["Overview + system"]
+    A --> V2["Network traffic<br/>Scapy, psutil fallback"]
+    A --> V3["Wi-Fi scan<br/>iw, then nmcli"]
+    A --> V4["Bluetooth scan<br/>hcitool / bluetoothctl"]
+    A --> V5["Services + ports"]
+```
+
+```bash
+sudo .venv/bin/python sivnsh7-monitor.py     # q to quit
+```
+
+</details>
+
+<details>
+<summary><b>C-04 · Arch Linux &amp; private-networking lab</b> &nbsp;—&nbsp; personal setup, not a public service</summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **Problem** | Moving from Android/Termux to a Linux laptop meant learning system configuration, services, display setup and remote-access constraints. |
+| **Method** | Arch Linux as a personal learning environment. Reachability issues behind CGNAT, worked through with Tailscale for private access — and Cloudflare Tunnel kept as a *separate* experiment. Private access and public exposure are different decisions. |
+| **Evidence** | Personal setup. Hostnames, addresses, credentials and service routes are intentionally not published. |
+| **Outcome** | An ongoing lab: hands-on configuration and troubleshooting — not a claim of hardened production infrastructure. |
+
+</details>
+
+<details>
+<summary><b>C-05 · Qwen remote streaming experiment</b> &nbsp;—&nbsp; notebook-hosted model, reached through a tunnel</summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **Problem** | How can an external client reach a notebook-hosted model service and receive a response incrementally, instead of one finished payload? |
+| **Method** | Client → tunnel → notebook gateway / model service → model backend, with streamed chunks returning the same way. |
+| **Evidence** | Self-reported: I verified a full external request with a streamed response, and re-created the setup after restarting the notebook. Notebook and configuration stay private; nothing here is independently inspected. |
+| **Outcome** | A reproducible experiment, not an always-on service — no uptime claim. |
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#F8BBD0","primaryTextColor":"#251323","primaryBorderColor":"#D6458F","lineColor":"#D6458F","textColor":"#D6458F","actorBkg":"#F8BBD0","actorTextColor":"#251323","actorBorder":"#D6458F","signalColor":"#D6458F","signalTextColor":"#D6458F"}}}%%
+sequenceDiagram
+    autonumber
+    participant C as Client
+    participant T as Tunnel
+    participant G as Notebook gateway
+    participant M as Model backend
+    C->>T: request
+    T->>G: forward
+    G->>M: generate
+    M-->>G: tokens, incrementally
+    G-->>T: streamed chunks
+    T-->>C: streamed response
+```
+
+</details>
+
+<details>
+<summary><b>C-06 · OmniRoute provider-alias debugging</b> &nbsp;—&nbsp; a patch I haven't verified yet</summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **Problem** | An integration returned a provider-connection lookup error. My diagnosis: the key used for the lookup didn't match the provider's registered, canonical key. |
+| **Method** | Diagnosed the likely alias/key mismatch, then applied an AI-assisted patch. |
+| **Evidence** | None yet. The original error and the patch diff still need to be located, and no regression test has run — so this is a case in progress, not a confirmed fix. |
+| **Next** | Recover the artefacts, reproduce the original condition if it's safe, then test both the corrected alias and an unknown-alias path. |
+
+</details>
+
+## Stack
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,bash,linux,arch,neovim,git,github,cloudflare,html,css,js&amp;perline=11&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,bash,linux,arch,neovim,git,github,cloudflare,html,css,js&amp;perline=11&amp;theme=light" alt="Python, Bash, Linux, Arch Linux, Neovim, Git, GitHub, Cloudflare, HTML, CSS and JavaScript" />
+</picture>
+
+</div>
+
+<br>
+
+| Domain | Tools | Evidence |
+|:--|:--|:--|
+| **Recon tooling** | Bash · Termux · Findomain · Subfinder · Assetfinder · crt.sh · dig · jq | ![in public source](https://img.shields.io/badge/in%20public%20source-D6458F?style=flat-square) |
+| **Python applications** | Python · Kivy · Textual · psutil · Scapy · ThreadPoolExecutor | ![in public source](https://img.shields.io/badge/in%20public%20source-D6458F?style=flat-square) |
+| **Linux & shell** | Arch Linux · Termux · systemd · Hyprland · Neovim · Git | ![used and configured](https://img.shields.io/badge/used%20%26%20configured-EF93C4?style=flat-square) |
+| **Networking** | DNS · IPv4 / CIDR · HTTP(S) · TCP/IP · NAT / CGNAT · Tailscale · Cloudflare Tunnel | ![used and practised](https://img.shields.io/badge/used%20%26%20practised-EF93C4?style=flat-square) |
+| **Recon & web testing** | recon-ng · ReconFTW · Burp Suite · OWASP ZAP · Nuclei · httpx · ffuf | ![used and explored](https://img.shields.io/badge/used%20%26%20explored-EF93C4?style=flat-square) |
+| **AI integration** | Model routing · API requests · streaming responses · notebook runtime · provider-alias debugging | ![experiments](https://img.shields.io/badge/experiments%20%26%20learning-F8BBD0?style=flat-square) |
+| **Web publishing** | HTML · CSS · JavaScript · responsive layout · metadata | ![used and configured](https://img.shields.io/badge/used%20%26%20configured-EF93C4?style=flat-square) |
+
+<sub>Deep pink = visible in public source · pink = used or practised · soft pink = experiments. Depth is shown by evidence, not by how long a list is.</sub>
+
+## Work queue
+
+**Current focus:** fresh test runs for the three public tools — and learning enough of each implementation to explain its behaviour and limits. Boxes tick when evidence exists, not when code exists.
+
+- [ ] Retest **SubHunter** — fresh run, plus a known-result test for the merge step
+- [ ] Retest **CF Scanner** — end-to-end run, the HTTPS→HTTP fallback path, an Android build in a clean environment
+- [ ] Retest **sivnsh7-monitor** — every view, including Wi-Fi, Bluetooth and the privileged launch
+- [ ] Review the **OmniRoute** alias patch — recover the error and diff, test a known and an unknown alias
+- [ ] Document the **streaming experiment** — repeatable setup notes
+- [ ] Consolidate the **portfolio** source
+
+## Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivnsh7/sivnsh7/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sivnsh7/sivnsh7/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake eating the GitHub contribution graph" />
+</picture>
+
+<sub>Generated from the contribution graph by <a href="https://github.com/Platane/snk">Platane/snk</a>, refreshed every 12 hours.</sub>
+
+</div>
+
+## Connect
+
+Open to conversation about Linux, security tooling, networking and AI-integration experiments. Messages go straight to my inbox — and the portfolio has no backend, no analytics and no third-party scripts.
+
+| 💻 Code & tools | 📝 Field notes | 📸 Behind the scenes | ✉️ Say hello |
+|:--:|:--:|:--:|:--:|
+| [GitHub](https://github.com/sivnsh7) | [X](https://x.com/sivnsh7) | [Instagram](https://instagram.com/sivnsh7.in) | [sivnsh7@gmail.com](mailto:sivnsh7@gmail.com) |
+
+<div align="center">
+
+<br>
+
+**Tools change. Method doesn't.**
+
+<sub>Review the code · Verify the behaviour · See you in the next commit 🌸</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:D6458F,50:EF93C4,100:F8BBD0&amp;height=120&amp;section=footer" width="100%" alt="" />
+
+<sub>Synced with <a href="https://sivnsh7.in">sivnsh7.in</a> · 17 Oct 2026 · statuses change only when the evidence does</sub>
+
+</div>
