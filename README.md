@@ -16,15 +16,8 @@ images may not load.
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:17111F,50:63365C,100:EF93C4&amp;height=220&amp;section=header&amp;text=SHIVANSH&amp;fontSize=58&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=LINUX%20%7C%20SECURITY%20TOOLING%20%7C%20AI%20EXPERIMENTS&amp;descAlignY=60&amp;descSize=14"
-    />
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F8BBD0,50:EF93C4,100:FF69B4&amp;height=220&amp;section=header&amp;text=SHIVANSH&amp;fontSize=58&amp;fontColor=251323&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=LINUX%20%7C%20SECURITY%20TOOLING%20%7C%20AI%20EXPERIMENTS&amp;descAlignY=60&amp;descSize=14"
-      width="100%"
-      alt="Shivansh — Linux, security tooling, and AI experiments"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png" />
+    <img src="art/header-light.png" width="100%" alt="Shivansh — GitHub profile banner" />
   </picture>
 </p>
 
@@ -49,12 +42,18 @@ images may not load.
   <img src="https://komarev.com/ghpvc/?username=sivnsh7&amp;style=flat-square&amp;color=EF93C4&amp;label=Profile%20views" alt="GitHub profile views" />
 </p>
 
-✦ About Me
-I'm a self-directed developer exploring Linux systems, security tooling, networking, and AI integration. I enjoy building and adapting practical utilities, troubleshooting real setups, and understanding what happens beneath the interface.
-I use AI-assisted development for implementation and debugging, while working to review code more deeply, reproduce results, and test projects independently.
-My approach: Build → inspect → test → document.
+---
 
-⌘ Areas I'm Exploring
+## ✦ About Me
+
+I'm a self-directed developer exploring **Linux systems, security tooling, networking, and AI integration**. I enjoy building and adapting practical utilities, troubleshooting real setups, and understanding what happens beneath the interface.
+
+I use AI-assisted development for implementation and debugging, while working to review code more deeply, reproduce results, and test projects independently.
+
+> **My approach:** Build → inspect → test → document.
+
+## ⌘ Areas I'm Exploring
+
 <p align="center">
   <img src="https://img.shields.io/badge/Linux%20%26%20Systems-251323?style=for-the-badge&amp;labelColor=EF93C4" alt="Linux and systems" />
   <img src="https://img.shields.io/badge/Security%20Tooling-251323?style=for-the-badge&amp;labelColor=F8BBD0" alt="Security tooling" />
@@ -62,11 +61,13 @@ My approach: Build → inspect → test → document.
   <img src="https://img.shields.io/badge/AI%20Integration-251323?style=for-the-badge&amp;labelColor=EF93C4" alt="AI integration" />
 </p>
 
-- Systems: Arch Linux, Kali Linux, Termux, shell workflows, and troubleshooting.
-- Networking: DNS resolution, IPv4/CIDR, HTTP(S), Tailscale, and Cloudflare Tunnel experiments.
-- Security: authorized reconnaissance, careful result validation, and learning why tool output needs verification.
-- AI integration: provider configuration, API compatibility, model routing concepts, and streaming responses.
-⚙️ Tools & Technologies
+- **Systems:** Arch Linux, Kali Linux, Termux, shell workflows, and troubleshooting.
+- **Networking:** DNS resolution, IPv4/CIDR, HTTP(S), Tailscale, and Cloudflare Tunnel experiments.
+- **Security:** authorized reconnaissance, careful result validation, and learning why tool output needs verification.
+- **AI integration:** provider configuration, API compatibility, model routing concepts, and streaming responses.
+
+## ⚙️ Tools & Technologies
+
 <p align="center">
   <picture>
     <source
@@ -84,35 +85,57 @@ My approach: Build → inspect → test → document.
   <sub>Technologies shown are tools I've used or explored—not a claim of expert-level proficiency in every one.</sub>
 </p>
 
-🚀 Selected Projects
-SubHunter
-Bash · Termux · Reconnaissance
+## 🚀 Selected Projects
+
+### [SubHunter](https://github.com/sivnsh7/SubHunter)
+
+**Bash · Termux · Reconnaissance**
+
 An interactive subdomain-reconnaissance helper that brings discovery sources together, checks candidate names through DNS, and saves results for later review.
-Validation status: Fresh execution and targeted correctness tests are still pending.
-View source →
-CF Scanner
-Python · Kivy · IPv4 · HTTP(S)
+
+**Validation status:** Fresh execution and targeted correctness tests are still pending.
+
+[View source →](https://github.com/sivnsh7/SubHunter)
+
+---
+
+### [CF Scanner](https://github.com/sivnsh7/cf_scanner)
+
+**Python · Kivy · IPv4 · HTTP(S)**
+
 A graphical hostname-checking utility that compares resolved IPv4 addresses against an embedded Cloudflare range list and records HTTP(S) reachability results.
-Validation status: Fresh end-to-end testing and Android packaging validation are still pending.
-View source →
-sivnsh7-monitor
-Python · Textual · Linux
+
+**Validation status:** Fresh end-to-end testing and Android packaging validation are still pending.
+
+[View source →](https://github.com/sivnsh7/cf_scanner)
+
+---
+
+### [sivnsh7-monitor](https://github.com/sivnsh7/sivnsh7-monitor)
+
+**Python · Textual · Linux**
+
 A terminal-based monitoring dashboard for system resources, network information, Wi-Fi, Bluetooth, and service details. Some views depend on permissions, installed utilities, and supported hardware.
-Validation status: Fresh feature-by-feature testing is still pending.
-View source →
+
+**Validation status:** Fresh feature-by-feature testing is still pending.
+
+[View source →](https://github.com/sivnsh7/sivnsh7-monitor)
+
 <p align="center">
   <em>Public source availability is not the same as verified runtime behavior. I aim to document what has—and has not—been tested.</em>
 </p>
 
-🧪 Current Learning Lab
-Focus	What I'm working on
-Linux & networking	System configuration, DNS and HTTP behavior, remote access, and troubleshooting reachability.
-Security tooling	Authorized reconnaissance, validating results, reviewing edge cases, and reproducible execution.
-AI integration	API compatibility, model-routing concepts, streaming responses, and provider debugging.
-Next milestones	Retest public projects, review generated code, improve setup instructions, and document limitations.
+## 🧪 Current Learning Lab
 
+| Focus | What I'm working on |
+|:--|:--|
+| **Linux & networking** | System configuration, DNS and HTTP behavior, remote access, and troubleshooting reachability. |
+| **Security tooling** | Authorized reconnaissance, validating results, reviewing edge cases, and reproducible execution. |
+| **AI integration** | API compatibility, model-routing concepts, streaming responses, and provider debugging. |
+| **Next milestones** | Retest public projects, review generated code, improve setup instructions, and document limitations. |
 
-📈 GitHub Activity
+## 📈 GitHub Activity
+
 <p align="center">
   <picture>
     <source
@@ -141,7 +164,8 @@ Next milestones	Retest public projects, review generated code, improve setup ins
   </picture>
 </p>
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
+
 <p align="center">
   <picture>
     <source
@@ -160,7 +184,8 @@ Next milestones	Retest public projects, review generated code, improve setup ins
   <sub>The snake images appear after the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Actions workflow successfully generates and publishes them to the <code>output</code> branch.</sub>
 </p>
 
-🌐 Connect
+## 🌐 Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/shivansh-sharma-aba285392/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&amp;logo=linkedin&amp;logoColor=251323" alt="Connect on LinkedIn" />
@@ -181,6 +206,8 @@ Next milestones	Retest public projects, review generated code, improve setup ins
   <a href="https://github.com/sivnsh7?tab=repositories">Repositories</a> ·
   <a href="https://www.linkedin.com/in/shivansh-sharma-aba285392/">LinkedIn</a>
 </p>
+
+---
 
 <p align="center">
   <strong>Build with curiosity. Document with honesty. Verify what matters.</strong>
